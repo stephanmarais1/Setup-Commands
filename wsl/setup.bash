@@ -14,6 +14,8 @@ pacman -Syu
 #add:
 [user]
 default=stephan
+[automount]
+options = "metadata"
 
 
 #install sudo for new user
